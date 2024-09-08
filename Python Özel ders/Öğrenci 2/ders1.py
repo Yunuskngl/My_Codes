@@ -1,0 +1,2 @@
+cumle = "merhaba"
+cumle

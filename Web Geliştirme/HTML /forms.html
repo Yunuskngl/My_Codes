@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORMS</title>
+</head>
+<body>
+    <form action="register.php">
+
+        <div>
+            <label for="username">Kullanıcı Adı</label>
+            <input type="text" name="username" id="username">
+        </div>
+        <div>
+            <label for="usersurname">Kullanıcı Soyadı</label>
+            <input type="text" name="usersurname" id="usersurname">
+        </div>
+        <div>
+            <label for="e-posta">e-posta</label>
+            <input type="email" name="e-posta" id="e-posta">
+        </div>
+        <div>
+            <label for="password">Şifre</label>
+            <input type="password" name="password" id="password">
+        </div>
+        <div>
+            <label for="DOĞUM TARİHİ">DOĞUM TARİHİ</label>
+            <input type="date" name="DOĞUM TARİHİ" id="DOĞUM TARİHİ">
+        </div>
+        <div>
+            <label for="cities">ŞEHİR</label>
+            <select id="cities">
+                <option value="34">İSTANBUL</option>
+                <option value="06">ANKARA</option>
+                <option value="35">İZMİR</option>
+                <option value="01">ADANA</option>
+            </select>
+        </div>
+
+        <div>
+            <label for = "metin">MESAJINIZ :</label>
+            <br><BR>
+            <textarea name="metin" id="metin" cols="30" rows="10"></textarea>
+        </div>
+        <div>
+            <p>En sevdiğin programlama dili :</p>
+            <input type="radio" id = "html" name="programlama">
+            <label for="HTML">HTML</label>
+            <input type="radio" id = "css" name="programlama">
+            <label for="CSS">CSS</label>
+            <input type="radio" id = "js" name="programlama">
+            <label for="JS">JS</label>
+        </div>
+        
+        <div>
+            <p>En sevdiğin renk :</p>
+            <input type="checkbox" id = "red" name="renk">
+            <label for="red">Kırmızı</label>
+            <input type="checkbox" id = "blue" name="renk">
+            <label for="blue">Mavi</label>
+            <input type="checkbox" id = "green" name="renk">
+            <label for="green">Yeşil</label>
+        </div>
+        <div>
+            
+        </div>
+        <button type="submit">Gönder</button>
+        <button type="reset">Temizle</button>
+
+
+
+    </form>
+
+    
+</body>
+</html>

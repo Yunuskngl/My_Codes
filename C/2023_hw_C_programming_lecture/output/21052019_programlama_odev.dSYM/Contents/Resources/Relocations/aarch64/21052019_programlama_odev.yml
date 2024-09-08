@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yunuskangal/Documents/GitHub/My_Codes_/My_Codes_/C/c_homework/output/21052019_programlama_odev'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _budgetleri_goster, symObjAddr: 0x0, symBinAddr: 0x1000023F8, symSize: 0x8C }
+  - { offsetInCU: 0x4E, offset: 0x4E, size: 0x8, addend: 0x0, symName: _filename, symObjAddr: 0x1AE0, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x68, offset: 0x68, size: 0x8, addend: 0x0, symName: _nameArray, symBinAddr: 0x100022F68, symSize: 0x0 }
+  - { offsetInCU: 0x106, offset: 0x106, size: 0x8, addend: 0x0, symName: _budgetArray, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x167, offset: 0x167, size: 0x8, addend: 0x0, symName: _budgetleri_goster, symObjAddr: 0x0, symBinAddr: 0x1000023F8, symSize: 0x8C }
+  - { offsetInCU: 0x1B5, offset: 0x1B5, size: 0x8, addend: 0x0, symName: _name_dizileri_yazdir, symObjAddr: 0x8C, symBinAddr: 0x100002484, symSize: 0xB0 }
+  - { offsetInCU: 0x1E7, offset: 0x1E7, size: 0x8, addend: 0x0, symName: _film_bilgileri, symObjAddr: 0x13C, symBinAddr: 0x100002534, symSize: 0xE8 }
+  - { offsetInCU: 0x235, offset: 0x235, size: 0x8, addend: 0x0, symName: _film_bilgileri_detay, symObjAddr: 0x224, symBinAddr: 0x10000261C, symSize: 0x2F0 }
+  - { offsetInCU: 0x283, offset: 0x283, size: 0x8, addend: 0x0, symName: _yila_gore_siralama, symObjAddr: 0x514, symBinAddr: 0x10000290C, symSize: 0x1C0 }
+  - { offsetInCU: 0x317, offset: 0x317, size: 0x8, addend: 0x0, symName: _oylara_gore_siralama, symObjAddr: 0x6D4, symBinAddr: 0x100002ACC, symSize: 0x37C }
+  - { offsetInCU: 0x3D2, offset: 0x3D2, size: 0x8, addend: 0x0, symName: _genres_yazdir, symObjAddr: 0xA50, symBinAddr: 0x100002E48, symSize: 0x290 }
+  - { offsetInCU: 0x474, offset: 0x474, size: 0x8, addend: 0x0, symName: _genres_sayilari, symObjAddr: 0xCE0, symBinAddr: 0x1000030D8, symSize: 0x454 }
+  - { offsetInCU: 0x550, offset: 0x550, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1134, symBinAddr: 0x10000352C, symSize: 0x34 }
+  - { offsetInCU: 0x589, offset: 0x589, size: 0x8, addend: 0x0, symName: _verileri_al, symObjAddr: 0x1168, symBinAddr: 0x100003560, symSize: 0x6D0 }
+...

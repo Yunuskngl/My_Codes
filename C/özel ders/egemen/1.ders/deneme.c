@@ -1,0 +1,1 @@
+#include <stdio.h>  // Standart giriş çıkış fonksiyonlarını kullanabilmek için gerekli kütüphane
