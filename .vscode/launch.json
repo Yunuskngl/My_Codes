@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yunuskangal/Documents/Github/My_Codes/C/c_homework",
+      "program": "/Users/yunuskangal/Documents/Github/My_Codes/C/c_homework/build/Debug/outDebug"
+    }
+  ]
+}
