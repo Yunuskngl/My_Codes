@@ -113,7 +113,8 @@
     "unordered_set": "cpp",
     "variant": "cpp",
     "vector": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "structvsunion": "cpp"
   },
   "cmake.sourceDirectory": "/Users/yunuskangal/Documents/Github/My_Codes/C/PA1_starter_code 2"
 }
